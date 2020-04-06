@@ -19,7 +19,7 @@
 | 15A 24v PSU or 30A 12v PSU | 1  |
 | E3D v6 compatible hotend with PTFE tube and Bowden coupler | 1  |
 | Any electronics (32 bit preferred, mounts available for SKR 1.3) | 1  |
-| NEMA 17 stepper (60+ oz in/42+ N cm preferred) | 3  |
+| NEMA 17 stepper (60+ oz-in/42+ N-cm preferred) | 3  |
 | NEMA 17 pancake stepper (up to 25mm motor body length) | 1  |
 | IEC socket with fuse and switch | 1  |
 | ~5A 250v fuse | 1  |
