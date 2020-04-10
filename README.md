@@ -1,20 +1,21 @@
 :warning: **Still under active development**: Parts and documentation may change!
 ![FuseBox3](images/1.png)
-The latest in the FuseBox line of 3D printers.
+## The latest in the FuseBox line of 3D printers.
 
-## Specs
-- 235x235x235mm build area
-- 348x370x426mm frame dimensions
+- Build area: 235x235x235mm
+- Frame dimensions: 348x370x426m
+- CoreXY movement system running on MGN9/MGN12 rail
 - 2020 extrusion frame
 - E3D v6 type hotend with Bowden extruder
-- CoreXY movement system running on MGN9/MGN12 rail
+- Dual leadscrew, belt-driven z-axis
+- Dual 4010 blower print cooling + 4010 axial fan hotend cooling
 
-
-## Improvements over FuseBox2/R:
+## Comparison with FuseBox2/R:
 - Y-axis rods swapped out for MGN9 rails fixed directly to the frame
-- Space efficiency - slightly smaller desk footprint - 348x370mm vs 390x340mm
-- More stable dual leadscrew z-axis, belt driven by a single motor (avoids leadscrews getting out of sync)
-- Dual 4010 blowers, mounted on either side of the hotend for better cooling performance
+- Slightly smaller desk footprint - 348x370mm vs 390x340mm
+- Larger build area
+- Dual leadscrew z-axis more stable and less prone to binding
+- Better cooling performance
 - More precise belt tensioning via sliding motor mounts
 
 ## [BOM](documentation/BOM.md)
