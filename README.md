@@ -2,6 +2,9 @@
 ![FuseBox3](images/1.png)
 ## The latest in the FuseBox line of 3D printers.
 
+FuseBox3 is a midsize CoreXY printer designed for fast printing and high output quality.
+
+Specs:
 - Build area: 235x235x235mm
 - Frame dimensions: 348x370x426m
 - CoreXY movement system running on MGN9/MGN12 rail
