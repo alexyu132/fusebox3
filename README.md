@@ -26,7 +26,7 @@ With clone linear rails becoming cheaper and more easily available, the CoreXY m
 ### Belt path changes, tensioning improvements
 The FuseBox and FuseBox2/R share a similar belt path - the motors are mounted in the corners of the frame, and the motor pulleys serve as the "ends" of the belt path on the back side. This belt path design minimizes the number of idler pulleys needed, at the cost of quite a bit of wasted space in the x direction, necessitating a wider frame.
 
-[TODO: Comparison pic of motor side]
+![FuseBox3](images/4.png)
 
 On the FuseBox3, two additional idlers have been added on the rear (motor) side to bring the belts as close to the sides of the frame as possible. This allows the FuseBox3's frame to be 42mm shorter in the x direction than the FuseBox2R's, while simultaneously having an additional 25mm of x-axis travel. The motors have been relocated to the very back of the machine, just underneath the top rear horizontal extrusion. The motor mounts now have slotted screw holes, allowing the motors to slide for adjusting belt tension. On the FuseBox and FuseBox2/R, tensioning was done by manually pulling on the belts and sliding them into carriage-mounted belt clamps. The new tensioning system should significantly simplify the belt mounting and tensioning process.
 
