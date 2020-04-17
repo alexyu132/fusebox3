@@ -21,7 +21,10 @@ Specs:
 While the original FuseBox and FuseBox2 were optimized for simplicity and low build cost, FuseBox3 targets a more premium price point without being overly expensive. However, accessibility and ease of construction is still a priority. Therefore, the printer needs no custom CNC'd parts, and all parts were picked to be easily sourceable online.
 
 ### Linear rails
+![FuseBox3](images/7.png)
+
 With clone linear rails becoming cheaper and more easily available, the CoreXY movement has been redesigned to ride completely on linear rails - the y-axis now uses MGN9 rails screwed directly to the extrusions, which improves rigidity compared to the old linear rods. From experience on the FuseBox2R, the rails should have the added benefit of lower noise. Like the 2R, the gantry/x-axis uses a single MGN12 rail, although 50mm longer to account for the additional build area.
+
 
 ### Belt path changes, tensioning improvements
 The FuseBox and FuseBox2/R share a similar belt path - the motors are mounted in the corners of the frame, and the motor pulleys serve as the "ends" of the belt path on the back side. This belt path design minimizes the number of idler pulleys needed, at the cost of quite a bit of wasted space in the x direction, necessitating a wider frame.
@@ -32,9 +35,11 @@ On the FuseBox3, two additional idlers have been added on the rear (motor) side 
 
 Additionally, the front idler brackets have been changed so that the top and bottom idlers are stacked on top of each other rather than offset. This makes the idlers easier to assemble and saves a bolt and nut on each side.
 
-[Idler comparison pic]
+![FuseBox3](images/5.png)
 
 ### Z-axis
+![FuseBox3](images/10.png)
+
 The z-axis keeps the 8mm rods due to space and cost constraints, but is now reconfigured as a dual leadscrew setup. On the prototype FuseBox2, the cantilevered z-axis was slightly susceptible to vibration and would also occasionally bind due to the cheap LM8LUU bearings used. The new design's rods have been relocated to the sides of the printer, and each side gets a leadscrew. To prevent the leadscrews from getting out of sync, they are belted together and driven by a single motor. The new z-axis should have improved stability and be less susceptible to binding.
 
 ### Hotend carriage, print cooling
@@ -44,11 +49,8 @@ The general arrangement of FuseBox3's carriage is very similar to the carriage o
 
 Since the FuseBox3 has sliding motor mounts, tensioning is no longer done on the carriage. The belts are now attached to the carriage by a pair of clamp pieces that screw into the main carriage body. The clamps have a small cutout on the inner side for routing excess belt, so the belts don't have to be shaved to a precise length like they do on the FuseBox2R.
 
-[Pic of the new carriage belt clamps]
+![FuseBox3](images/8.png)
 
-The print cooling setup swaps out the single 4020 blower for twin 4010 blowers flanking the hotend. The old single blower design provided relatively good cooling performance, but the airflow only came from one side, leading to weaker cooling for certain overhang orientations. The new twin fan arrangement has more even part cooling coverage, and the very short ducts provide less airflow restriction.
+The print cooling setup swaps out the single 4020 blower for twin 4010 blowers flanking the hotend. The old single blower design provided relatively good cooling performance, but the one-sided airflow led to weaker cooling with certain overhang orientations. Twin blowers make for more even part cooling coverage, and the much shorter ducts also provide less airflow restriction.
 
-[Pics comparing cooling ducts]
-
-
-Todo: bold some important parts in the design section
+![FuseBox3](images/9.png)
