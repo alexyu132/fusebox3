@@ -45,12 +45,14 @@ The z-axis keeps the 8mm rods due to space and cost constraints, but is now reco
 ### Hotend carriage, print cooling
 The general arrangement of FuseBox3's carriage is very similar to the carriage on the older FuseBox2R, with the main differences being the print cooling setup and the belt mounting method. Subjectively, it's also a lot tidier in appearance than the earlier carriage designs.
 
+Like the carriage on the FuseBox2R, the new carriage keeps the mass vertically centered on the rail, with the belts also centered and kept as close to the rail as possible. This design minimizes any twisting of the print head during sharp direction changes.
+
 ![FuseBox3](images/3.png)
 
 Since the FuseBox3 has sliding motor mounts, tensioning is no longer done on the carriage. The belts are now attached to the carriage by a pair of clamp pieces that screw into the main carriage body. The clamps have a small cutout on the inner side for routing excess belt, so the belts don't have to be shaved to a precise length like they do on the FuseBox2R.
 
 ![FuseBox3](images/8.png)
 
-The print cooling setup swaps out the single 4020 blower for twin 4010 blowers flanking the hotend. The old single blower design provided relatively good cooling performance, but the one-sided airflow led to weaker cooling with certain overhang orientations. Twin blowers make for more even part cooling coverage, and the much shorter ducts also provide less airflow restriction.
+The print cooling setup swaps out the single 4020 blower for twin 4010 blowers flanking the hotend. The old single blower design provided relatively good cooling performance, but the one-sided airflow led to weaker cooling with certain overhang orientations. Twin blowers enable more even part cooling coverage, and the much shorter ducts provide less airflow restriction. The 40mm axial fan for the hotend has been retained, as it provides lower noise than a 30mm fan with equivalent airflow (for ultra quiet operation, the Noctua A4x10 fan is a compatible choice).
 
 ![FuseBox3](images/9.png)
