@@ -95,7 +95,7 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 | Ender 3 compatible heated bed and leveling hardware | 1 |
 | PCB endstop | 1 |
 
-## Power Supply
+## Power supply
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
 | M5x8mm button head | 5 |
@@ -106,6 +106,23 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 | 30A 12V or 15A 24V LED power supply | 1 |
 | IEC socket with fuse and switch | 1  |
 | IEC power cord | 1  |
+
+## Stock extruder (Bowden)
+This is pretty much the extruder from the FuseBox2, modified to hang below an extrusion instead of to the side. Can print flexible filament.
+
+| Item | Quantity  |
+|-----------------------------------------------------------------------------------------|----------|
+| M5x8mm button head | 2 |
+| M5 T nut | 2 |
+| M3x8mm socket head | 3 |
+| M3x10mm button head | 1 |
+| M3x25mm button head | 1 |
+| M3 nylon lock nut | 1 |
+| Stiff spring | 1 |
+| 625 bearing | 1 |
+| MK8 extruder gear | 1 |
+| NEMA 17 stepper (60+ oz-in/42+ N-cm preferred) | 1 |
+| PC4-M6 Bowden coupler | 1 |
 
 ## Controller and LCD
 
