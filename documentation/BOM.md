@@ -23,9 +23,9 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
-| Corner bracket (20x20x17mm) | 36 |
-| M5x8mm button head | 72 |
-| M5 T nut | 72 |
+| Corner bracket (20x20x17mm) | 32 |
+| M5x8mm button head | 64 |
+| M5 T nut | 64 |
 
 **Option 2: Tapped ends**
 
