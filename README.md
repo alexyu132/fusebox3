@@ -5,8 +5,8 @@
 FuseBox3 is a midsize CoreXY printer designed for fast printing and high output quality.
 
 Specs:
-- Safe build area: 230x230x235mm (Absolute max travels: 236x236.75x238mm)
-- Frame dimensions: 348x370x426mm
+- Safe build area (XYZ): 235x235x235mm (Absolute max travels: 238x238.75x238mm)
+- Frame dimensions (XYZ): 350x372x427mm
 - CoreXY movement system running on MGN9/MGN12 rail
 - 2020 extrusion frame
 - E3D v6 type hotend with Bowden extruder
@@ -23,11 +23,11 @@ While the original FuseBox and FuseBox2 were optimized for simplicity and low bu
 ### Linear rails
 ![FuseBox3](images/7.png)
 
-With clone linear rails becoming cheaper and more easily available, the CoreXY movement has been redesigned to ride completely on linear rails - the y-axis now uses MGN9 rails screwed directly to the extrusions, which improves rigidity compared to the old linear rods. From experience on the FuseBox2R, the rails should have the added benefit of lower noise. Like the 2R, the gantry/x-axis uses a single MGN12 rail, although 50mm longer to account for the additional build area.
+With clone linear rails becoming cheaper and more easily available, the CoreXY movement has been redesigned to ride completely on linear rails - the y-axis now uses MGN9 rails screwed directly to the extrusions, which improves rigidity compared to the old linear rods. From experience on the FuseBox2R, the rails should have the added benefit of lower noise. Like the 2R, the gantry/x-axis uses a single MGN12 rail, although it's now 50mm longer to account for the additional build area.
 
 
 ### Belt path changes, tensioning improvements
-The FuseBox and FuseBox2/R share a similar belt path - the motors are mounted in the corners of the frame, and the motor pulleys serve as the "ends" of the belt path on the back side. This belt path design minimizes the number of idler pulleys needed, at the cost of quite a bit of wasted space in the x direction, necessitating a wider frame.
+The original FuseBox and FuseBox2/R share a similar belt path - the motors are mounted in the corners of the frame, and the motor pulleys serve as the "ends" of the belt path on the back side. This belt path design minimizes the number of idler pulleys needed, at the cost of quite a bit of wasted space in the x direction, necessitating a wider frame.
 
 ![FuseBox3](images/4.png)
 
