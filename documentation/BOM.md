@@ -10,11 +10,11 @@
 
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
-| 2020 extrusion, 426mm | 4  |
+| 2020 extrusion, 427mm | 4  |
 | 2020 extrusion, 330mm | 6  |
 | 2020 extrusion, 308mm | 4  |
-| 2020 extrusion, 258mm | 2  |
-| 2020 extrusion, 119mm | 2  |
+| 2020 extrusion, 218mm | 2  |
+| 2020 extrusion, 159mm | 2  |
 
 ### Brackets and fasteners
 There are two options for joining frame extrusions. The easiest and quickest, but more expensive, option is to use corner brackets everywhere. The second option is to tap the ends of the extrusions and join them with M5 hardware. This will also require access holes to be drilled through some of the extrusions. Note that this option still requires a few corner brackets to prevent certain extrusions from twisting.
