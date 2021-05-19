@@ -1,6 +1,9 @@
 :warning: **Still under active development**: Parts and documentation may change!
 
-# Recommended Suppliers
+# Recommended Suppliers (US)
+- Extrusions: Misumi (US-based)
+- Pulleys, closed loop belts: Powge (Aliexpress)
+- Open loop belts: Trianglelab (Aliexpress), Powge (Aliexpress)
 
 
 # BOM - Non-printed
@@ -10,14 +13,14 @@
 
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
-| 2020 extrusion, 427mm | 4  |
+| 2020 extrusion, 427mm (427mm minimum, these can be increased to 430mm or more to give more room at the bottom of the printer) | 4  |
 | 2020 extrusion, 332mm | 6  |
 | 2020 extrusion, 310mm | 4  |
 | 2020 extrusion, 220mm | 2  |
 | 2020 extrusion, 160mm | 2  |
 
 ### Brackets and fasteners
-There are two options for joining frame extrusions. The easiest and quickest, but more expensive, option is to use corner brackets everywhere. The second option is to tap the ends of the extrusions and join them with M5 hardware. This will also require access holes to be drilled through some of the extrusions. Note that this option still requires a few corner brackets to prevent certain extrusions from twisting.
+There are two options for joining frame extrusions. The easiest and quickest, but more expensive, option is to use corner brackets everywhere. The second option is to tap the ends of the extrusions and join them with M5 hardware. This will also require access holes to be drilled through some of the extrusions. Note that this option still requires a few corner brackets to prevent certain extrusions from twisting. The required brackets are marked in yellow in the Sketchup file.
 
 **Option 1: All corner brackets**
 
@@ -52,7 +55,7 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 | M3x18mm button head | 8 |
 | M3x28mm button head | 2 |
 | M3 nylon lock nut | 20 |
-| M3 washer | 10 |
+| M3 washer | 8 |
 | 16T toothed 2GT idler, 3mm bore | 8 |
 | 16T smooth 2GT idler, 3mm bore | 4 |
 | 20T 2GT pulley, 5mm bore | 2 |
@@ -69,11 +72,11 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 | M3x10mm button head | 7 |
 | M3 nylon lock nut | 13 |
 | E3D V6 or Lite6 hotend (Bowden) | 1 |
-| 4010 blower fan | 2 |
-| 4010 axial fan | 1 |
+| 4010 blower fan (ball bearing recommended) | 2 |
+| 4010 axial fan (ball bearing recommended)| 1 |
 | Omron D2F-L microswitch (cut one off a PCB endstop) | 1 |
 
-Note: The blower shrouds and axial fan can optionally be attached by zip ties instead of screws. This gets rid of four M3x16mm bolts, two M3x10mm bolts, and six lock nuts.
+Note: The blower shrouds and axial fan can optionally be attached by zip ties instead of screws. This gets rid of four M3x16mm bolts, two M3x10mm bolts, and six M3 lock nuts.
 
 ## Z axis
 | Item | Quantity  |
@@ -92,7 +95,7 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 | LM8LUU bearing | 2 |
 | 608 bearing | 4 |
 | NEMA 17 pancake stepper (up to 25mm motor body length) | 1 |
-| Ender 3 compatible heated bed and leveling hardware | 1 |
+| Ender 3 compatible heated bed (235mmx235mm) and leveling hardware | 1 |
 | PCB endstop | 1 |
 
 ## Power supply
@@ -142,10 +145,10 @@ This is pretty much the extruder from the FuseBox2, modified to hang below an ex
 
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
-| 235x235mm print surface | 1  |
+| 235x235mm print surface (PEI recommended) | 1  |
 | Zip ties | Varies  |
 | Cable mesh (optional) | Varies  |
 | 18AWG wire for AC input | Varies  |
 | 14AWG wire for main DC power | Varies  |
 | Small binder/bulldog clips for bed | 4  |
-| Adhesive felt feet | 4  |
+| Adhesive felt or rubber feet | 4  |
