@@ -52,8 +52,8 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 | M3x8mm socket head | 16 |
 | M5x8mm button head | 20 |
 | M3x10mm button head | 10 |
-| M3x18mm button head | 8 |
-| M3x28mm button head | 2 |
+| M3x20mm button head | 8 |
+| M3x30mm button head | 2 |
 | M3 nylon lock nut | 20 |
 | M3 washer | 8 |
 | 16T toothed 2GT idler, 3mm bore | 8 |
@@ -83,7 +83,7 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 |-----------------------------------------------------------------------------------------|----------|
 | M3x8mm socket head | 4 |
 | M3x10mm button head | 18 |
-| M3x18mm button head | 1 |
+| M3x20mm button head | 1 |
 | M5x8mm button head | 32 |
 | M5 T nut | 32 |
 | M3 nylon lock nut | 19 | 
