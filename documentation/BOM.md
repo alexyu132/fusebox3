@@ -51,10 +51,10 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 | M3x6mm socket head | 8 |
 | M3x8mm socket head | 16 |
 | M5x8mm button head | 20 |
-| M3x10mm button head | 10 |
+| M3x10mm button head | 12 |
 | M3x20mm button head | 8 |
 | M3x30mm button head | 2 |
-| M3 nylon lock nut | 20 |
+| M3 nylon lock nut | 22 |
 | M3 washer | 8 |
 | 16T toothed 2GT idler, 3mm bore | 8 |
 | 16T smooth 2GT idler, 3mm bore | 4 |
@@ -103,10 +103,10 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 |-----------------------------------------------------------------------------------------|----------|
 | M5x8mm button head | 5 |
 | M5 T nut | 5 |
-| M3x6mm socket head | 3 |
+| M4x6mm socket head | 3 |
 | M3x10mm button head | 2 |
 | M3 nylon lock nut | 2 |
-| 30A 12V or 15A 24V LED power supply | 1 |
+| Meanwell LRS-350-24 power supply | 1 |
 | IEC socket with fuse and switch | 1  |
 | IEC power cord | 1  |
 
