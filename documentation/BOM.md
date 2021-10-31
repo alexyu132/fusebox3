@@ -13,11 +13,12 @@
 
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
-| 2020 extrusion, 427mm (427mm minimum, these can be increased to 430mm or more to give more room at the bottom of the printer) | 4  |
-| 2020 extrusion, 332mm | 6  |
+| 2020 extrusion, 407mm (407mm minimum, these can be increased to 430mm or more to give more room at the bottom of the printer) | 4  |
+| 2020 extrusion, 332mm | 4  |
+| 2020 extrusion, 372mm | 2  |
 | 2020 extrusion, 310mm | 4  |
-| 2020 extrusion, 220mm | 2  |
-| 2020 extrusion, 160mm | 2  |
+| 2020 extrusion, 260mm | 2  |
+| 2020 extrusion, 120mm | 2  |
 
 ### Brackets and fasteners
 There are two options for joining frame extrusions. The easiest and quickest, but more expensive, option is to use corner brackets everywhere. The second option is to tap the ends of the extrusions and join them with M5 hardware. This will also require access holes to be drilled through some of the extrusions. Note that this option still requires a few corner brackets to prevent certain extrusions from twisting. The required brackets are marked in yellow in the Sketchup file.
