@@ -83,11 +83,11 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
 | M3x8mm socket head | 4 |
-| M3x10mm button head | 16 |
+| M3x10mm button head | 14 |
 | M3x20mm button head | 1 |
 | M5x8mm button head | 32 |
 | M5 T nut | 32 |
-| M3 nylon lock nut | 17 | 
+| M3 nylon lock nut | 15 | 
 | 8mm leadscrew (300mm length, 2mm lead) and brass nut | 2 |
 | 300mm length 8mm OD smooth rod | 2 |
 | 710mm closed loop 2GT belt, 6mm width | 1 |
