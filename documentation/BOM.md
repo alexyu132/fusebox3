@@ -1,5 +1,3 @@
-:warning: **Still under active development**: Parts and documentation may change!
-
 # Recommended Suppliers (US)
 - Extrusions: Misumi (US-based)
 - Pulleys, closed loop belts: Powge (Aliexpress)
@@ -11,14 +9,14 @@
 ## Frame
 ### Extrusions
 
-| Item | Quantity  |
-|-----------------------------------------------------------------------------------------|----------|
-| 2020 extrusion, 407mm (407mm minimum, these can be increased to 430mm or more to give more room at the bottom of the printer) | 4  |
-| 2020 extrusion, 332mm | 4  |
-| 2020 extrusion, 372mm | 2  |
-| 2020 extrusion, 310mm | 4  |
-| 2020 extrusion, 260mm | 2  |
-| 2020 extrusion, 120mm | 2  |
+| Item | Quantity  | Notes|
+|-----------------------------------------------------------------------------------------|----------|-----|
+| 2020 extrusion, 407mm (407mm minimum, these can be increased to 410mm or more to give more room at the bottom of the printer) | 4  | Z axis |
+| 2020 extrusion, 332mm | 4  | Y axis. The Y extrusions can be lengthened to increase Y travel without needing to modify any other components. To be able to use 300mm MGN9 rails on the Y axis, the Y extrusions should be at least 345mm, and the top Y extrusions should be at least 385mm. |
+| 2020 extrusion, 372mm | 2  | Top Y axis. Must be 40mm longer than Y axis extrusions. |
+| 2020 extrusion, 310mm | 4  | X axis |
+| 2020 extrusion, 260mm | 2  | Bed X axis |
+| 2020 extrusion, 120mm | 2  | Bed Y axis |
 
 ### Brackets and fasteners
 There are two options for joining frame extrusions. The easiest and quickest, but more expensive, option is to use corner brackets everywhere. The second option is to tap the ends of the extrusions and join them with M5 hardware. This will also require access holes to be drilled through some of the extrusions. Note that this option still requires a few corner brackets to prevent certain extrusions from twisting. The required brackets are marked in yellow in the Sketchup file.
@@ -45,7 +43,7 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 
 | Item | Quantity  |
 |-----------------------------------------------------------------------------------------|----------|
-| MGN9 linear rail with MGN9H block, 280mm | 2 |
+| MGN9 linear rail with MGN9H block, 280mm long (can use 300mm length if Y extrusions are extended, see extrusions section above) | 2 |
 | MGN12 linear rail with MGN12C block, 300mm | 1 |
 | M3 T nut | 8 |
 | M5 T nut | 20 |
@@ -60,7 +58,7 @@ There are two options for joining frame extrusions. The easiest and quickest, bu
 | 16T toothed 2GT idler, 3mm bore | 8 |
 | 16T smooth 2GT idler, 3mm bore | 4 |
 | 20T 2GT pulley, 5mm bore | 2 |
-| 2GT 6mm width belt | 3m |
+| 2GT 6mm width belt | 3M |
 | NEMA 17 stepper (60+ oz-in/42+ N-cm preferred) | 2 |
 | PCB endstop | 1 |
 
