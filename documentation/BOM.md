@@ -94,7 +94,7 @@ Note: The blower shrouds and axial fan can optionally be attached by zip ties in
 | LM8LUU bearing | 2 |
 | 608 bearing | 4 |
 | NEMA 17 pancake stepper (up to 25mm motor body length) | 1 |
-| Ender 3 compatible heated bed (235mmx235mm) and leveling hardware | 1 |
+| Ender 3 compatible heated bed (235mmx235mm) and leveling hardware (M4x55 or M4x60mm screws, 8mm OD 40mm length springs) | 1 |
 | PCB endstop | 1 |
 
 ## Power supply
